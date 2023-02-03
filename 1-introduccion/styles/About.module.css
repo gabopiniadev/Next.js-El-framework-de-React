@@ -1,0 +1,7 @@
+.tHome {
+    color:red;
+}
+
+.tHome ::after {
+    color: blue;
+}
